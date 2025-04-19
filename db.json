@@ -1,812 +1,821 @@
-[
-  {
-    "id": "1",
-    "name": "SpongeBob SquarePants",
-    "residence": "Tree Dome, Bikini Bottom",
-    "species": "Crab",
-    "gender": "Female",
-    "siblings": [
-      "King Neptune",
-      "Bunny Star"
-    ],
-    "occupation": "Fry Cook",
-    "episode": [
-      "Band Geeks",
-      "Rock Bottom"
-    ],
-    "created": "1999-11-26T00:00:00Z"
+{
+  "info": {
+    "count": 50,
+    "next": null,
+    "pages": 1,
+    "prev": null
   },
-  {
-    "id": "2",
-    "name": "Patrick Star",
-    "residence": "Kamp Koral",
-    "species": "Octopus",
-    "gender": "Female",
-    "siblings": [],
-    "occupation": "Restaurant Owner",
-    "episode": [
-      "Procrastination",
-      "Squidville"
-    ],
-    "created": "2004-12-28T00:00:00Z"
-  },
-  {
-    "id": "3",
-    "name": "Squidward Tentacles",
-    "residence": "Patrick's Rock",
-    "species": "Octopus",
-    "gender": "Male",
-    "siblings": [],
-    "occupation": "Mail Carrier",
-    "episode": [
-      "Company Picnic",
-      "Pressure"
-    ],
-    "created": "2001-04-07T00:00:00Z"
-  },
-  {
-    "id": "4",
-    "name": "Sandy Cheeks",
-    "residence": "Bikini Bottom Water Park",
-    "species": "Squirrel",
-    "gender": "Female",
-    "siblings": [
-      "Man Ray",
-      "Marvin"
-    ],
-    "occupation": "Mail Carrier",
-    "episode": [
-      "Rock Bottom",
-      "Krabby Kronicle"
-    ],
-    "created": "2003-02-05T00:00:00Z"
-  },
-  {
-    "id": "5",
-    "name": "Eugene H. Krabs",
-    "residence": "Krusty Krab",
-    "species": "Squirrel",
-    "gender": "Male",
-    "siblings": [],
-    "occupation": "Cashier",
-    "episode": [
-      "Tea at the Treedome",
-      "Big Pink Loser"
-    ],
-    "created": "2003-03-02T00:00:00Z"
-  },
-  {
-    "id": "6",
-    "name": "Sheldon J. Plankton",
-    "residence": "Patrick's Rock",
-    "species": "Fish",
-    "gender": "Male",
-    "siblings": [],
-    "occupation": "Boat Captain",
-    "episode": [
-      "Tea at the Treedome",
-      "Help Wanted"
-    ],
-    "created": "2005-04-05T00:00:00Z"
-  },
-  {
-    "id": "7",
-    "name": "Karen Plankton",
-    "residence": "Rock Bottom",
-    "species": "Squirrel",
-    "gender": "Female",
-    "siblings": [],
-    "occupation": "Fry Cook",
-    "episode": [
-      "Help Wanted",
-      "Krabby Kronicle"
-    ],
-    "created": "2003-09-19T00:00:00Z"
-  },
-  {
-    "id": "8",
-    "name": "Gary the Snail",
-    "residence": "Bikini Bottom Water Park",
-    "species": "Sea Star",
-    "gender": "Male",
-    "siblings": [
-      "Man Ray"
-    ],
-    "occupation": "Cashier",
-    "episode": [
-      "Big Pink Loser",
-      "Tea at the Treedome"
-    ],
-    "created": "2001-04-02T00:00:00Z"
-  },
-  {
-    "id": "9",
-    "name": "Pearl Krabs",
-    "residence": "Chum Bucket",
-    "species": "Octopus",
-    "gender": "Male",
-    "siblings": [],
-    "occupation": "Restaurant Owner",
-    "episode": [
-      "Help Wanted",
-      "Squidville"
-    ],
-    "created": "2004-11-20T00:00:00Z"
-  },
-  {
-    "id": "10",
-    "name": "Mrs. Puff",
-    "residence": "124 Conch Street, Bikini Bottom",
-    "species": "Fish",
-    "gender": "Male",
-    "siblings": [],
-    "occupation": "Cashier",
-    "episode": [
-      "Tea at the Treedome",
-      "Krabby Kronicle"
-    ],
-    "created": "2001-03-10T00:00:00Z"
-  },
-  {
-    "id": "11",
-    "name": "Larry the Lobster",
-    "residence": "Goo Lagoon",
-    "species": "Sea Star",
-    "gender": "Female",
-    "siblings": [],
-    "occupation": "Unemployed",
-    "episode": [
-      "Help Wanted",
-      "Procrastination"
-    ],
-    "created": "2002-05-09T00:00:00Z"
-  },
-  {
-    "id": "12",
-    "name": "Mermaid Man",
-    "residence": "Chum Bucket",
-    "species": "Jellyfish",
-    "gender": "Male",
-    "siblings": [
-      "Patrick Star"
-    ],
-    "occupation": "Restaurant Owner",
-    "episode": [
-      "Rock Bottom",
-      "Band Geeks"
-    ],
-    "created": "2003-03-17T00:00:00Z"
-  },
-  {
-    "id": "13",
-    "name": "Barnacle Boy",
-    "residence": "Mrs. Puff's Boating School",
-    "species": "Squirrel",
-    "gender": "Female",
-    "siblings": [
-      "Sheldon J. Plankton",
-      "Sluggo Star"
-    ],
-    "occupation": "Fry Cook",
-    "episode": [
-      "Big Pink Loser",
-      "Tea at the Treedome"
-    ],
-    "created": "2002-03-01T00:00:00Z"
-  },
-  {
-    "id": "14",
-    "name": "Flying Dutchman",
-    "residence": "Mrs. Puff's Boating School",
-    "species": "Crab",
-    "gender": "Male",
-    "siblings": [
-      "Princess Star",
-      "Patrick Star"
-    ],
-    "occupation": "Fry Cook",
-    "episode": [
-      "Rock Bottom",
-      "Company Picnic"
-    ],
-    "created": "2002-04-01T00:00:00Z"
-  },
-  {
-    "id": "15",
-    "name": "Man Ray",
-    "residence": "Mrs. Puff's Boating School",
-    "species": "Sea Star",
-    "gender": "Male",
-    "siblings": [],
-    "occupation": "Fry Cook",
-    "episode": [
-      "Help Wanted",
-      "Krabby Kronicle"
-    ],
-    "created": "2004-01-28T00:00:00Z"
-  },
-  {
-    "id": "16",
-    "name": "Bubble Buddy",
-    "residence": "Krusty Krab",
-    "species": "Jellyfish",
-    "gender": "Male",
-    "siblings": [],
-    "occupation": "Restaurant Owner",
-    "episode": [
-      "Squidville",
-      "Band Geeks"
-    ],
-    "created": "2001-11-15T00:00:00Z"
-  },
-  {
-    "id": "17",
-    "name": "King Neptune",
-    "residence": "Downtown Bikini Bottom",
-    "species": "Jellyfish",
-    "gender": "Male",
-    "siblings": [],
-    "occupation": "Scientist",
-    "episode": [
-      "Procrastination",
-      "Band Geeks"
-    ],
-    "created": "2003-06-01T00:00:00Z"
-  },
-  {
-    "id": "18",
-    "name": "DoodleBob",
-    "residence": "Downtown Bikini Bottom",
-    "species": "Crab",
-    "gender": "Male",
-    "siblings": [
-      "Kevin C. Cucumber",
-      "Nat Peterson"
-    ],
-    "occupation": "Mail Carrier",
-    "episode": [
-      "Big Pink Loser",
-      "Pressure"
-    ],
-    "created": "2001-05-28T00:00:00Z"
-  },
-  {
-    "id": "19",
-    "name": "Patchy the Pirate",
-    "residence": "Mrs. Puff's Boating School",
-    "species": "Sea Sponge",
-    "gender": "Male",
-    "siblings": [
-      "Victorian Star",
-      "King Neptune"
-    ],
-    "occupation": "Cashier",
-    "episode": [
-      "Procrastination",
-      "Big Pink Loser"
-    ],
-    "created": "1999-07-15T00:00:00Z"
-  },
-  {
-    "id": "20",
-    "name": "Potty",
-    "residence": "Rock Bottom",
-    "species": "Jellyfish",
-    "gender": "Male",
-    "siblings": [
-      "Old Man Jenkins",
-      "Margie Star",
-      "Sam Star"
-    ],
-    "occupation": "Teacher",
-    "episode": [
-      "Tea at the Treedome",
-      "Rock Bottom"
-    ],
-    "created": "2002-02-12T00:00:00Z"
-  },
-  {
-    "id": "21",
-    "name": "Sea Bear",
-    "residence": "Chum Bucket",
-    "species": "Squirrel",
-    "gender": "Female",
-    "siblings": [
-      "Pecos Patrick"
-    ],
-    "occupation": "Mail Carrier",
-    "episode": [
-      "Company Picnic",
-      "Procrastination"
-    ],
-    "created": "2002-09-17T00:00:00Z"
-  },
-  {
-    "id": "22",
-    "name": "Dennis",
-    "residence": "Tree Dome, Bikini Bottom",
-    "species": "Squirrel",
-    "gender": "Female",
-    "siblings": [
-      "Mrs. Puff",
-      "Sea Bear",
-      "Pat-Buck Star"
-    ],
-    "occupation": "Unemployed",
-    "episode": [
-      "Procrastination",
-      "Pizza Delivery"
-    ],
-    "created": "2004-09-05T00:00:00Z"
-  },
-  {
-    "id": "23",
-    "name": "Kevin C. Cucumber",
-    "residence": "Sandy's Treedome",
-    "species": "Squirrel",
-    "gender": "Male",
-    "siblings": [
-      "Patchy the Pirate",
-      "Pecos Patrick",
-      "Margaret SquarePants"
-    ],
-    "occupation": "Teacher",
-    "episode": [
-      "Pressure",
-      "Rock Bottom"
-    ],
-    "created": "2002-10-28T00:00:00Z"
-  },
-  {
-    "id": "24",
-    "name": "Flats the Flounder",
-    "residence": "Sandy's Treedome",
-    "species": "Sea Sponge",
-    "gender": "Female",
-    "siblings": [
-      "Bubble Buddy"
-    ],
-    "occupation": "Scientist",
-    "episode": [
-      "Procrastination",
-      "Pizza Delivery"
-    ],
-    "created": "2003-02-16T00:00:00Z"
-  },
-  {
-    "id": "25",
-    "name": "Perch Perkins",
-    "residence": "Mrs. Puff's Boating School",
-    "species": "Fish",
-    "gender": "Male",
-    "siblings": [
-      "Margie Star",
-      "Dennis"
-    ],
-    "occupation": "Scientist",
-    "episode": [
-      "Big Pink Loser",
-      "Krabby Kronicle"
-    ],
-    "created": "2003-11-02T00:00:00Z"
-  },
-  {
-    "id": "26",
-    "name": "Nat Peterson",
-    "residence": "Mrs. Puff's Boating School",
-    "species": "Fish",
-    "gender": "Female",
-    "siblings": [
-      "Dennis",
-      "Potty",
-      "Sandy Cheeks"
-    ],
-    "occupation": "Restaurant Owner",
-    "episode": [
-      "Krabby Kronicle",
-      "Squidville"
-    ],
-    "created": "2005-08-05T00:00:00Z"
-  },
-  {
-    "id": "27",
-    "name": "Old Man Jenkins",
-    "residence": "Tree Dome, Bikini Bottom",
-    "species": "Octopus",
-    "gender": "Male",
-    "siblings": [],
-    "occupation": "Cashier",
-    "episode": [
-      "Company Picnic",
-      "Help Wanted"
-    ],
-    "created": "2005-07-09T00:00:00Z"
-  },
-  {
-    "id": "28",
-    "name": "Squilliam Fancyson",
-    "residence": "Goo Lagoon",
-    "species": "Fish",
-    "gender": "Female",
-    "siblings": [
-      "Sam Star"
-    ],
-    "occupation": "Boat Captain",
-    "episode": [
-      "Pizza Delivery",
-      "Pressure"
-    ],
-    "created": "2000-04-01T00:00:00Z"
-  },
-  {
-    "id": "29",
-    "name": "Harold SquarePants",
-    "residence": "Krusty Krab",
-    "species": "Crab",
-    "gender": "Male",
-    "siblings": [
-      "Karen Plankton",
-      "Bunny Star",
-      "Squidina Star"
-    ],
-    "occupation": "Cashier",
-    "episode": [
-      "Big Pink Loser",
-      "Party Pooper Pants"
-    ],
-    "created": "2000-01-07T00:00:00Z"
-  },
-  {
-    "id": "30",
-    "name": "Margaret SquarePants",
-    "residence": "Chum Bucket",
-    "species": "Sea Sponge",
-    "gender": "Female",
-    "siblings": [
-      "Perch Perkins"
-    ],
-    "occupation": "Restaurant Owner",
-    "episode": [
-      "Company Picnic",
-      "Squidville"
-    ],
-    "created": "1999-10-03T00:00:00Z"
-  },
-  {
-    "id": "31",
-    "name": "Sluggo Star",
-    "residence": "Kamp Koral",
-    "species": "Fish",
-    "gender": "Female",
-    "siblings": [
-      "Sam Star",
-      "Marvin",
-      "Pat-Buck Star"
-    ],
-    "occupation": "Boat Captain",
-    "episode": [
-      "Party Pooper Pants",
-      "Pizza Delivery"
-    ],
-    "created": "2005-05-24T00:00:00Z"
-  },
-  {
-    "id": "32",
-    "name": "Margie Star",
-    "residence": "Bikini Bottom Water Park",
-    "species": "Jellyfish",
-    "gender": "Male",
-    "siblings": [],
-    "occupation": "Teacher",
-    "episode": [
-      "Big Pink Loser",
-      "Help Wanted"
-    ],
-    "created": "2000-01-06T00:00:00Z"
-  },
-  {
-    "id": "33",
-    "name": "Bunny Star",
-    "residence": "Goo Lagoon",
-    "species": "Squirrel",
-    "gender": "Male",
-    "siblings": [
-      "Sam Star",
-      "King Neptune",
-      "King Amoeba"
-    ],
-    "occupation": "Fry Cook",
-    "episode": [
-      "Band Geeks",
-      "Squidville"
-    ],
-    "created": "2002-01-15T00:00:00Z"
-  },
-  {
-    "id": "34",
-    "name": "Sam Star",
-    "residence": "Bikini Bottom Water Park",
-    "species": "Sea Star",
-    "gender": "Male",
-    "siblings": [
-      "Sluggo Star",
-      "Sandy Cheeks",
-      "SpongeBob SquarePants"
-    ],
-    "occupation": "Mail Carrier",
-    "episode": [
-      "Company Picnic",
-      "Help Wanted"
-    ],
-    "created": "2004-09-26T00:00:00Z"
-  },
-  {
-    "id": "35",
-    "name": "Squidina Star",
-    "residence": "Sandy's Treedome",
-    "species": "Jellyfish",
-    "gender": "Male",
-    "siblings": [
-      "Sam Star",
-      "Sandy Cheeks"
-    ],
-    "occupation": "Fry Cook",
-    "episode": [
-      "Band Geeks",
-      "Pizza Delivery"
-    ],
-    "created": "2002-04-06T00:00:00Z"
-  },
-  {
-    "id": "36",
-    "name": "Ed Star",
-    "residence": "Downtown Bikini Bottom",
-    "species": "Sea Sponge",
-    "gender": "Female",
-    "siblings": [
-      "Prehistoric Star",
-      "Pearl Krabs",
-      "FitzPatrick"
-    ],
-    "occupation": "Mail Carrier",
-    "episode": [
-      "Krabby Kronicle",
-      "Company Picnic"
-    ],
-    "created": "2001-08-13T00:00:00Z"
-  },
-  {
-    "id": "37",
-    "name": "Inga Star",
-    "residence": "Downtown Bikini Bottom",
-    "species": "Squirrel",
-    "gender": "Female",
-    "siblings": [
-      "FitzPatrick",
-      "Dennis"
-    ],
-    "occupation": "Restaurant Owner",
-    "episode": [
-      "Party Pooper Pants",
-      "Krabby Kronicle"
-    ],
-    "created": "2004-01-24T00:00:00Z"
-  },
-  {
-    "id": "38",
-    "name": "FitzPatrick",
-    "residence": "Sandy's Treedome",
-    "species": "Crab",
-    "gender": "Male",
-    "siblings": [
-      "Nat Peterson",
-      "Potty"
-    ],
-    "occupation": "Mail Carrier",
-    "episode": [
-      "Pressure",
-      "Company Picnic"
-    ],
-    "created": "2000-02-06T00:00:00Z"
-  },
-  {
-    "id": "39",
-    "name": "Billy Bob Star",
-    "residence": "Chum Bucket",
-    "species": "Sea Sponge",
-    "gender": "Male",
-    "siblings": [
-      "Princess Star",
-      "Potty",
-      "Sheldon J. Plankton"
-    ],
-    "occupation": "Boat Captain",
-    "episode": [
-      "Rock Bottom",
-      "Company Picnic"
-    ],
-    "created": "2001-03-04T00:00:00Z"
-  },
-  {
-    "id": "40",
-    "name": "Maw Tucket",
-    "residence": "Downtown Bikini Bottom",
-    "species": "Jellyfish",
-    "gender": "Female",
-    "siblings": [
-      "Karen Plankton",
-      "Squidina Star",
-      "Victorian Star"
-    ],
-    "occupation": "Unemployed",
-    "episode": [
-      "Tea at the Treedome",
-      "Big Pink Loser"
-    ],
-    "created": "2001-01-26T00:00:00Z"
-  },
-  {
-    "id": "41",
-    "name": "Pecos Patrick",
-    "residence": "Mrs. Puff's Boating School",
-    "species": "Octopus",
-    "gender": "Male",
-    "siblings": [],
-    "occupation": "Fry Cook",
-    "episode": [
-      "Help Wanted",
-      "Company Picnic"
-    ],
-    "created": "1999-05-27T00:00:00Z"
-  },
-  {
-    "id": "42",
-    "name": "Pat-Buck Star",
-    "residence": "Downtown Bikini Bottom",
-    "species": "Crab",
-    "gender": "Female",
-    "siblings": [
-      "Barnacle Boy",
-      "Squidward Tentacles",
-      "Princess Star"
-    ],
-    "occupation": "Cashier",
-    "episode": [
-      "Big Pink Loser",
-      "Krabby Kronicle"
-    ],
-    "created": "1999-06-05T00:00:00Z"
-  },
-  {
-    "id": "43",
-    "name": "Victorian Star",
-    "residence": "Tree Dome, Bikini Bottom",
-    "species": "Crab",
-    "gender": "Male",
-    "siblings": [
-      "Princess Star"
-    ],
-    "occupation": "Cashier",
-    "episode": [
-      "Squidville",
-      "Pizza Delivery"
-    ],
-    "created": "2003-12-24T00:00:00Z"
-  },
-  {
-    "id": "44",
-    "name": "Princess Star",
-    "residence": "Chum Bucket",
-    "species": "Squirrel",
-    "gender": "Male",
-    "siblings": [
-      "Ed Star",
-      "Man Ray",
-      "Pecos Patrick"
-    ],
-    "occupation": "Restaurant Owner",
-    "episode": [
-      "Tea at the Treedome",
-      "Help Wanted"
-    ],
-    "created": "2005-01-02T00:00:00Z"
-  },
-  {
-    "id": "45",
-    "name": "Arabian Star",
-    "residence": "Tree Dome, Bikini Bottom",
-    "species": "Fish",
-    "gender": "Male",
-    "siblings": [
-      "Margaret SquarePants",
-      "Pecos Patrick",
-      "King Amoeba"
-    ],
-    "occupation": "Restaurant Owner",
-    "episode": [
-      "Band Geeks",
-      "Krabby Kronicle"
-    ],
-    "created": "2002-05-07T00:00:00Z"
-  },
-  {
-    "id": "46",
-    "name": "Prehistoric Star",
-    "residence": "Tree Dome, Bikini Bottom",
-    "species": "Crab",
-    "gender": "Male",
-    "siblings": [
-      "Larry the Lobster",
-      "Sheldon J. Plankton",
-      "Squidina Star"
-    ],
-    "occupation": "Boat Captain",
-    "episode": [
-      "Tea at the Treedome",
-      "Krabby Kronicle"
-    ],
-    "created": "2003-08-17T00:00:00Z"
-  },
-  {
-    "id": "47",
-    "name": "Patrickosaurus",
-    "residence": "Goo Lagoon",
-    "species": "Fish",
-    "gender": "Male",
-    "siblings": [],
-    "occupation": "Fry Cook",
-    "episode": [
-      "Help Wanted",
-      "Squidville"
-    ],
-    "created": "2001-03-17T00:00:00Z"
-  },
-  {
-    "id": "48",
-    "name": "Marvin",
-    "residence": "Downtown Bikini Bottom",
-    "species": "Octopus",
-    "gender": "Male",
-    "siblings": [],
-    "occupation": "Boat Captain",
-    "episode": [
-      "Tea at the Treedome",
-      "Company Picnic"
-    ],
-    "created": "2001-08-04T00:00:00Z"
-  },
-  {
-    "id": "49",
-    "name": "Yorick",
-    "residence": "Mrs. Puff's Boating School",
-    "species": "Squirrel",
-    "gender": "Male",
-    "siblings": [
-      "Bunny Star"
-    ],
-    "occupation": "Scientist",
-    "episode": [
-      "Procrastination",
-      "Band Geeks"
-    ],
-    "created": "2005-05-11T00:00:00Z"
-  },
-  {
-    "id": "50",
-    "name": "King Amoeba",
-    "residence": "Mrs. Puff's Boating School",
-    "species": "Sea Sponge",
-    "gender": "Female",
-    "siblings": [
-      "Arabian Star",
-      "Princess Star",
-      "Pat-Buck Star"
-    ],
-    "occupation": "Cashier",
-    "episode": [
-      "Help Wanted",
-      "Pizza Delivery"
-    ],
-    "created": "2005-03-02T00:00:00Z"
-  }
-]
+  "results": [
+    {
+      "id": "1",
+      "name": "SpongeBob SquarePants",
+      "residence": "Tree Dome, Bikini Bottom",
+      "species": "Crab",
+      "gender": "Female",
+      "siblings": [
+        "King Neptune",
+        "Bunny Star"
+      ],
+      "occupation": "Fry Cook",
+      "episode": [
+        "Band Geeks",
+        "Rock Bottom"
+      ],
+      "created": "1999-11-26T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Patrick Star",
+      "residence": "Kamp Koral",
+      "species": "Octopus",
+      "gender": "Female",
+      "siblings": [],
+      "occupation": "Restaurant Owner",
+      "episode": [
+        "Procrastination",
+        "Squidville"
+      ],
+      "created": "2004-12-28T00:00:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Squidward Tentacles",
+      "residence": "Patrick's Rock",
+      "species": "Octopus",
+      "gender": "Male",
+      "siblings": [],
+      "occupation": "Mail Carrier",
+      "episode": [
+        "Company Picnic",
+        "Pressure"
+      ],
+      "created": "2001-04-07T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Sandy Cheeks",
+      "residence": "Bikini Bottom Water Park",
+      "species": "Squirrel",
+      "gender": "Female",
+      "siblings": [
+        "Man Ray",
+        "Marvin"
+      ],
+      "occupation": "Mail Carrier",
+      "episode": [
+        "Rock Bottom",
+        "Krabby Kronicle"
+      ],
+      "created": "2003-02-05T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Eugene H. Krabs",
+      "residence": "Krusty Krab",
+      "species": "Squirrel",
+      "gender": "Male",
+      "siblings": [],
+      "occupation": "Cashier",
+      "episode": [
+        "Tea at the Treedome",
+        "Big Pink Loser"
+      ],
+      "created": "2003-03-02T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Sheldon J. Plankton",
+      "residence": "Patrick's Rock",
+      "species": "Fish",
+      "gender": "Male",
+      "siblings": [],
+      "occupation": "Boat Captain",
+      "episode": [
+        "Tea at the Treedome",
+        "Help Wanted"
+      ],
+      "created": "2005-04-05T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "name": "Karen Plankton",
+      "residence": "Rock Bottom",
+      "species": "Squirrel",
+      "gender": "Female",
+      "siblings": [],
+      "occupation": "Fry Cook",
+      "episode": [
+        "Help Wanted",
+        "Krabby Kronicle"
+      ],
+      "created": "2003-09-19T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "name": "Gary the Snail",
+      "residence": "Bikini Bottom Water Park",
+      "species": "Sea Star",
+      "gender": "Male",
+      "siblings": [
+        "Man Ray"
+      ],
+      "occupation": "Cashier",
+      "episode": [
+        "Big Pink Loser",
+        "Tea at the Treedome"
+      ],
+      "created": "2001-04-02T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "name": "Pearl Krabs",
+      "residence": "Chum Bucket",
+      "species": "Octopus",
+      "gender": "Male",
+      "siblings": [],
+      "occupation": "Restaurant Owner",
+      "episode": [
+        "Help Wanted",
+        "Squidville"
+      ],
+      "created": "2004-11-20T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "name": "Mrs. Puff",
+      "residence": "124 Conch Street, Bikini Bottom",
+      "species": "Fish",
+      "gender": "Male",
+      "siblings": [],
+      "occupation": "Cashier",
+      "episode": [
+        "Tea at the Treedome",
+        "Krabby Kronicle"
+      ],
+      "created": "2001-03-10T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "name": "Larry the Lobster",
+      "residence": "Goo Lagoon",
+      "species": "Sea Star",
+      "gender": "Female",
+      "siblings": [],
+      "occupation": "Unemployed",
+      "episode": [
+        "Help Wanted",
+        "Procrastination"
+      ],
+      "created": "2002-05-09T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "name": "Mermaid Man",
+      "residence": "Chum Bucket",
+      "species": "Jellyfish",
+      "gender": "Male",
+      "siblings": [
+        "Patrick Star"
+      ],
+      "occupation": "Restaurant Owner",
+      "episode": [
+        "Rock Bottom",
+        "Band Geeks"
+      ],
+      "created": "2003-03-17T00:00:00Z"
+    },
+    {
+      "id": "13",
+      "name": "Barnacle Boy",
+      "residence": "Mrs. Puff's Boating School",
+      "species": "Squirrel",
+      "gender": "Female",
+      "siblings": [
+        "Sheldon J. Plankton",
+        "Sluggo Star"
+      ],
+      "occupation": "Fry Cook",
+      "episode": [
+        "Big Pink Loser",
+        "Tea at the Treedome"
+      ],
+      "created": "2002-03-01T00:00:00Z"
+    },
+    {
+      "id": "14",
+      "name": "Flying Dutchman",
+      "residence": "Mrs. Puff's Boating School",
+      "species": "Crab",
+      "gender": "Male",
+      "siblings": [
+        "Princess Star",
+        "Patrick Star"
+      ],
+      "occupation": "Fry Cook",
+      "episode": [
+        "Rock Bottom",
+        "Company Picnic"
+      ],
+      "created": "2002-04-01T00:00:00Z"
+    },
+    {
+      "id": "15",
+      "name": "Man Ray",
+      "residence": "Mrs. Puff's Boating School",
+      "species": "Sea Star",
+      "gender": "Male",
+      "siblings": [],
+      "occupation": "Fry Cook",
+      "episode": [
+        "Help Wanted",
+        "Krabby Kronicle"
+      ],
+      "created": "2004-01-28T00:00:00Z"
+    },
+    {
+      "id": "16",
+      "name": "Bubble Buddy",
+      "residence": "Krusty Krab",
+      "species": "Jellyfish",
+      "gender": "Male",
+      "siblings": [],
+      "occupation": "Restaurant Owner",
+      "episode": [
+        "Squidville",
+        "Band Geeks"
+      ],
+      "created": "2001-11-15T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "name": "King Neptune",
+      "residence": "Downtown Bikini Bottom",
+      "species": "Jellyfish",
+      "gender": "Male",
+      "siblings": [],
+      "occupation": "Scientist",
+      "episode": [
+        "Procrastination",
+        "Band Geeks"
+      ],
+      "created": "2003-06-01T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "name": "DoodleBob",
+      "residence": "Downtown Bikini Bottom",
+      "species": "Crab",
+      "gender": "Male",
+      "siblings": [
+        "Kevin C. Cucumber",
+        "Nat Peterson"
+      ],
+      "occupation": "Mail Carrier",
+      "episode": [
+        "Big Pink Loser",
+        "Pressure"
+      ],
+      "created": "2001-05-28T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "name": "Patchy the Pirate",
+      "residence": "Mrs. Puff's Boating School",
+      "species": "Sea Sponge",
+      "gender": "Male",
+      "siblings": [
+        "Victorian Star",
+        "King Neptune"
+      ],
+      "occupation": "Cashier",
+      "episode": [
+        "Procrastination",
+        "Big Pink Loser"
+      ],
+      "created": "1999-07-15T00:00:00Z"
+    },
+    {
+      "id": "20",
+      "name": "Potty",
+      "residence": "Rock Bottom",
+      "species": "Jellyfish",
+      "gender": "Male",
+      "siblings": [
+        "Old Man Jenkins",
+        "Margie Star",
+        "Sam Star"
+      ],
+      "occupation": "Teacher",
+      "episode": [
+        "Tea at the Treedome",
+        "Rock Bottom"
+      ],
+      "created": "2002-02-12T00:00:00Z"
+    },
+    {
+      "id": "21",
+      "name": "Sea Bear",
+      "residence": "Chum Bucket",
+      "species": "Squirrel",
+      "gender": "Female",
+      "siblings": [
+        "Pecos Patrick"
+      ],
+      "occupation": "Mail Carrier",
+      "episode": [
+        "Company Picnic",
+        "Procrastination"
+      ],
+      "created": "2002-09-17T00:00:00Z"
+    },
+        {
+      "id": "22",
+      "name": "Dennis",
+      "residence": "Tree Dome, Bikini Bottom",
+      "species": "Squirrel",
+      "gender": "Female",
+      "siblings": [
+        "Mrs. Puff",
+        "Sea Bear",
+        "Pat-Buck Star"
+      ],
+      "occupation": "Unemployed",
+      "episode": [
+        "Procrastination",
+        "Pizza Delivery"
+      ],
+      "created": "2004-09-05T00:00:00Z"
+    },
+    {
+      "id": "23",
+      "name": "Kevin C. Cucumber",
+      "residence": "Sandy's Treedome",
+      "species": "Squirrel",
+      "gender": "Male",
+      "siblings": [
+        "Patchy the Pirate",
+        "Pecos Patrick",
+        "Margaret SquarePants"
+      ],
+      "occupation": "Teacher",
+      "episode": [
+        "Pressure",
+        "Rock Bottom"
+      ],
+      "created": "2002-10-28T00:00:00Z"
+    },
+    {
+      "id": "24",
+      "name": "Flats the Flounder",
+      "residence": "Sandy's Treedome",
+      "species": "Sea Sponge",
+      "gender": "Female",
+      "siblings": [
+        "Bubble Buddy"
+      ],
+      "occupation": "Scientist",
+      "episode": [
+        "Procrastination",
+        "Pizza Delivery"
+      ],
+      "created": "2003-02-16T00:00:00Z"
+    },
+    {
+      "id": "25",
+      "name": "Perch Perkins",
+      "residence": "Mrs. Puff's Boating School",
+      "species": "Fish",
+      "gender": "Male",
+      "siblings": [
+        "Margie Star",
+        "Dennis"
+      ],
+      "occupation": "Scientist",
+      "episode": [
+        "Big Pink Loser",
+        "Krabby Kronicle"
+      ],
+      "created": "2003-11-02T00:00:00Z"
+    },
+    {
+      "id": "26",
+      "name": "Nat Peterson",
+      "residence": "Mrs. Puff's Boating School",
+      "species": "Fish",
+      "gender": "Female",
+      "siblings": [
+        "Dennis",
+        "Potty",
+        "Sandy Cheeks"
+      ],
+      "occupation": "Restaurant Owner",
+      "episode": [
+        "Krabby Kronicle",
+        "Squidville"
+      ],
+      "created": "2005-08-05T00:00:00Z"
+    },
+    {
+      "id": "27",
+      "name": "Old Man Jenkins",
+      "residence": "Tree Dome, Bikini Bottom",
+      "species": "Octopus",
+      "gender": "Male",
+      "siblings": [],
+      "occupation": "Cashier",
+      "episode": [
+        "Company Picnic",
+        "Help Wanted"
+      ],
+      "created": "2005-07-09T00:00:00Z"
+    },
+    {
+      "id": "28",
+      "name": "Squilliam Fancyson",
+      "residence": "Goo Lagoon",
+      "species": "Fish",
+      "gender": "Female",
+      "siblings": [
+        "Sam Star"
+      ],
+      "occupation": "Boat Captain",
+      "episode": [
+        "Pizza Delivery",
+        "Pressure"
+      ],
+      "created": "2000-04-01T00:00:00Z"
+    },
+    {
+      "id": "29",
+      "name": "Harold SquarePants",
+      "residence": "Krusty Krab",
+      "species": "Crab",
+      "gender": "Male",
+      "siblings": [
+        "Karen Plankton",
+        "Bunny Star",
+        "Squidina Star"
+      ],
+      "occupation": "Cashier",
+      "episode": [
+        "Big Pink Loser",
+        "Party Pooper Pants"
+      ],
+      "created": "2000-01-07T00:00:00Z"
+    },
+    {
+      "id": "30",
+      "name": "Margaret SquarePants",
+      "residence": "Chum Bucket",
+      "species": "Sea Sponge",
+      "gender": "Female",
+      "siblings": [
+        "Perch Perkins"
+      ],
+      "occupation": "Restaurant Owner",
+      "episode": [
+        "Company Picnic",
+        "Squidville"
+      ],
+      "created": "1999-10-03T00:00:00Z"
+    },
+    {
+      "id": "31",
+      "name": "Sluggo Star",
+      "residence": "Kamp Koral",
+      "species": "Fish",
+      "gender": "Female",
+      "siblings": [
+        "Sam Star",
+        "Marvin",
+        "Pat-Buck Star"
+      ],
+      "occupation": "Boat Captain",
+      "episode": [
+        "Party Pooper Pants",
+        "Pizza Delivery"
+      ],
+      "created": "2005-05-24T00:00:00Z"
+    },
+    {
+      "id": "32",
+      "name": "Margie Star",
+      "residence": "Bikini Bottom Water Park",
+      "species": "Jellyfish",
+      "gender": "Male",
+      "siblings": [],
+      "occupation": "Teacher",
+      "episode": [
+        "Big Pink Loser",
+        "Help Wanted"
+      ],
+      "created": "2000-01-06T00:00:00Z"
+    },
+    {
+      "id": "33",
+      "name": "Bunny Star",
+      "residence": "Goo Lagoon",
+      "species": "Squirrel",
+      "gender": "Male",
+      "siblings": [
+        "Sam Star",
+        "King Neptune",
+        "King Amoeba"
+      ],
+      "occupation": "Fry Cook",
+      "episode": [
+        "Band Geeks",
+        "Squidville"
+      ],
+      "created": "2002-01-15T00:00:00Z"
+    },
+    {
+      "id": "34",
+      "name": "Sam Star",
+      "residence": "Bikini Bottom Water Park",
+      "species": "Sea Star",
+      "gender": "Male",
+      "siblings": [
+        "Sluggo Star",
+        "Sandy Cheeks",
+        "SpongeBob SquarePants"
+      ],
+      "occupation": "Mail Carrier",
+      "episode": [
+        "Company Picnic",
+        "Help Wanted"
+      ],
+      "created": "2004-09-26T00:00:00Z"
+    },
+    {
+      "id": "35",
+      "name": "Squidina Star",
+      "residence": "Sandy's Treedome",
+      "species": "Jellyfish",
+      "gender": "Male",
+      "siblings": [
+        "Sam Star",
+        "Sandy Cheeks"
+      ],
+      "occupation": "Fry Cook",
+      "episode": [
+        "Band Geeks",
+        "Pizza Delivery"
+      ],
+      "created": "2002-04-06T00:00:00Z"
+    },
+    {
+      "id": "36",
+      "name": "Ed Star",
+      "residence": "Downtown Bikini Bottom",
+      "species": "Sea Sponge",
+      "gender": "Female",
+      "siblings": [
+        "Prehistoric Star",
+        "Pearl Krabs",
+        "FitzPatrick"
+      ],
+      "occupation": "Mail Carrier",
+      "episode": [
+        "Krabby Kronicle",
+        "Company Picnic"
+      ],
+      "created": "2001-08-13T00:00:00Z"
+    },
+    {
+      "id": "37",
+      "name": "Inga Star",
+      "residence": "Downtown Bikini Bottom",
+      "species": "Squirrel",
+      "gender": "Female",
+      "siblings": [
+        "FitzPatrick",
+        "Dennis"
+      ],
+      "occupation": "Restaurant Owner",
+      "episode": [
+        "Party Pooper Pants",
+        "Krabby Kronicle"
+      ],
+      "created": "2004-01-24T00:00:00Z"
+    },
+    {
+      "id": "38",
+      "name": "FitzPatrick",
+      "residence": "Sandy's Treedome",
+      "species": "Crab",
+      "gender": "Male",
+      "siblings": [
+        "Nat Peterson",
+        "Potty"
+      ],
+      "occupation": "Mail Carrier",
+      "episode": [
+        "Pressure",
+        "Company Picnic"
+      ],
+      "created": "2000-02-06T00:00:00Z"
+    },
+    {
+      "id": "39",
+      "name": "Billy Bob Star",
+      "residence": "Chum Bucket",
+      "species": "Sea Sponge",
+      "gender": "Male",
+      "siblings": [
+        "Princess Star",
+        "Potty",
+        "Sheldon J. Plankton"
+      ],
+      "occupation": "Boat Captain",
+      "episode": [
+        "Rock Bottom",
+        "Company Picnic"
+      ],
+      "created": "2001-03-04T00:00:00Z"
+    },
+    {
+      "id": "40",
+      "name": "Maw Tucket",
+      "residence": "Downtown Bikini Bottom",
+      "species": "Jellyfish",
+      "gender": "Female",
+      "siblings": [
+        "Karen Plankton",
+        "Squidina Star",
+        "Victorian Star"
+      ],
+      "occupation": "Unemployed",
+      "episode": [
+        "Tea at the Treedome",
+        "Big Pink Loser"
+      ],
+      "created": "2001-01-26T00:00:00Z"
+    },
+    {
+      "id": "41",
+      "name": "Pecos Patrick",
+      "residence": "Mrs. Puff's Boating School",
+      "species": "Octopus",
+      "gender": "Male",
+      "siblings": [],
+      "occupation": "Fry Cook",
+      "episode": [
+        "Help Wanted",
+        "Company Picnic"
+      ],
+      "created": "1999-05-27T00:00:00Z"
+    },
+    {
+      "id": "42",
+      "name": "Pat-Buck Star",
+      "residence": "Downtown Bikini Bottom",
+      "species": "Crab",
+      "gender": "Female",
+      "siblings": [
+        "Barnacle Boy",
+        "Squidward Tentacles",
+        "Princess Star"
+      ],
+      "occupation": "Cashier",
+      "episode": [
+        "Big Pink Loser",
+        "Krabby Kronicle"
+      ],
+      "created": "1999-06-05T00:00:00Z"
+    },
+    {
+      "id": "43",
+      "name": "Victorian Star",
+      "residence": "Tree Dome, Bikini Bottom",
+      "species": "Crab",
+      "gender": "Male",
+      "siblings": [
+        "Princess Star"
+      ],
+      "occupation": "Cashier",
+      "episode": [
+        "Squidville",
+        "Pizza Delivery"
+      ],
+      "created": "2003-12-24T00:00:00Z"
+    },
+    {
+      "id": "44",
+      "name": "Princess Star",
+      "residence": "Chum Bucket",
+      "species": "Squirrel",
+      "gender": "Male",
+      "siblings": [
+        "Ed Star",
+        "Man Ray",
+        "Pecos Patrick"
+      ],
+      "occupation": "Restaurant Owner",
+      "episode": [
+        "Tea at the Treedome",
+        "Help Wanted"
+      ],
+      "created": "2005-01-02T00:00:00Z"
+    },
+    {
+      "id": "45",
+      "name": "Arabian Star",
+      "residence": "Tree Dome, Bikini Bottom",
+      "species": "Fish",
+      "gender": "Male",
+      "siblings": [
+        "Margaret SquarePants",
+        "Pecos Patrick",
+        "King Amoeba"
+      ],
+      "occupation": "Restaurant Owner",
+      "episode": [
+        "Band Geeks",
+        "Krabby Kronicle"
+      ],
+      "created": "2002-05-07T00:00:00Z"
+    },
+    {
+      "id": "46",
+      "name": "Prehistoric Star",
+      "residence": "Tree Dome, Bikini Bottom",
+      "species": "Crab",
+      "gender": "Male",
+      "siblings": [
+        "Larry the Lobster",
+        "Sheldon J. Plankton",
+        "Squidina Star"
+      ],
+      "occupation": "Boat Captain",
+      "episode": [
+        "Tea at the Treedome",
+        "Krabby Kronicle"
+      ],
+      "created": "2003-08-17T00:00:00Z"
+    },
+    {
+      "id": "47",
+      "name": "Patrickosaurus",
+      "residence": "Goo Lagoon",
+      "species": "Fish",
+      "gender": "Male",
+      "siblings": [],
+      "occupation": "Fry Cook",
+      "episode": [
+        "Help Wanted",
+        "Squidville"
+      ],
+      "created": "2001-03-17T00:00:00Z"
+    },
+    {
+      "id": "48",
+      "name": "Marvin",
+      "residence": "Downtown Bikini Bottom",
+      "species": "Octopus",
+      "gender": "Male",
+      "siblings": [],
+      "occupation": "Boat Captain",
+      "episode": [
+        "Tea at the Treedome",
+        "Company Picnic"
+      ],
+      "created": "2001-08-04T00:00:00Z"
+    },
+    {
+      "id": "49",
+      "name": "Yorick",
+      "residence": "Mrs. Puff's Boating School",
+      "species": "Squirrel",
+      "gender": "Male",
+      "siblings": [
+        "Bunny Star"
+      ],
+      "occupation": "Scientist",
+      "episode": [
+        "Procrastination",
+        "Band Geeks"
+      ],
+      "created": "2005-05-11T00:00:00Z"
+    },
+    {
+      "id": "50",
+      "name": "King Amoeba",
+      "residence": "Mrs. Puff's Boating School",
+      "species": "Sea Sponge",
+      "gender": "Female",
+      "siblings": [
+        "Arabian Star",
+        "Princess Star",
+        "Pat-Buck Star"
+      ],
+      "occupation": "Cashier",
+      "episode": [
+        "Help Wanted",
+        "Pizza Delivery"
+      ],
+      "created": "2005-03-02T00:00:00Z"
+    }
+
+  ]
+}
